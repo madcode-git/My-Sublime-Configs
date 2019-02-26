@@ -9,5 +9,5 @@ My dotfiles and personal preferences
 * SublimeLinter
 * SublimeLinter-jshint
 * SublimeLinter-csslint
-* JSFormat
+* JSFormat (https://github.com/jdavisclark/JsFormat)
 * JavaScript Completions
